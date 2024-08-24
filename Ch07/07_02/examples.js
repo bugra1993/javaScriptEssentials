@@ -23,7 +23,7 @@ jQuery.get("https://httpbin.org/get", function(response) {
 /**
  * Promises
  */
-
+// what is going on here
 // One Promise
 axios.get("https://httpbin.org/get").then(function(response) {
   // now I have some data
